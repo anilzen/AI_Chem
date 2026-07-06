@@ -1,4 +1,4 @@
----
+<!-- ---
 widget: blank
 headless: true
 weight: 30
@@ -59,4 +59,4 @@ The names below are prospective participants to be invited.
   <div class="person"><span class="name">Olaf Wiest</span><span class="affil">University of Notre Dame</span><span class="focus">Computational organic chemistry</span></div>
   <div class="person"><span class="name">Huimin Zhao</span><span class="affil">University of Illinois Urbana-Champaign</span><span class="focus">Bio/chemical engineering</span></div>
   <div class="person"><span class="name">Publishing representatives</span><span class="affil">ACS Publications and American Physical Society</span><span class="focus">Journal policy, AI-ready supporting information, FAIR data and model standards</span></div>
-</div>
+</div> -->
