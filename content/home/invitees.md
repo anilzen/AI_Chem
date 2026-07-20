@@ -27,6 +27,7 @@ design:
   <div class="person"><span class="name">Xuhui Huang</span><span class="affil">University of Wisconsin–Madison</span><span class="focus">Molecular simulation, biomolecular kinetics, and artificial intelligence</span></div>
   <div class="person"><span class="name">Francesco Paesani</span><span class="affil">University of California, San Diego</span><span class="focus">Data-driven molecular simulation and many-body interactions</span></div>
   <div class="person"><span class="name">John Parkhill</span><span class="affil">Terray Therapeutics</span><span class="focus">Chemical foundation models, molecular design, and synthesis planning</span></div>
+  <div class="person"><span class="name">Rory Waterman</span><span class="affil">University of Vermont</span><span class="focus">Inorganic and organometallic synthesis and catalysis</span></div>
 </div>
 
 ## Invited speakers
@@ -46,7 +47,6 @@ design:
   <div class="person"><span class="name">Daniel Tabor</span><span class="affil">Texas A&amp;M University</span><span class="focus">Machine learning and quantum chemistry for materials discovery</span></div>
   <div class="person"><span class="name">Suri Vaikuntanathan</span><span class="affil">University of Chicago</span><span class="focus">Nonequilibrium statistical mechanics, soft matter, and biophysics</span></div>
   <div class="person"><span class="name">Gregory Voth</span><span class="affil">University of Chicago</span><span class="focus">Multiscale molecular simulation and coarse-grained modeling</span></div>
-  <div class="person"><span class="name">Rory Waterman</span><span class="affil">University of Vermont</span><span class="focus">Inorganic and organometallic synthesis and catalysis</span></div>
   <div class="person"><span class="name">Alison Wendlandt</span><span class="affil">MIT</span><span class="focus">Catalysis, physical organic chemistry, and selective synthesis</span></div>
   <div class="person"><span class="name">Michael Wleklinski</span><span class="affil">Merck &amp; Co.</span><span class="focus">Laboratory automation and high-throughput experimentation for drug discovery</span></div>
   <div class="person"><span class="name">Bodhi Vani</span><span class="affil">Prescient Design, Genentech</span><span class="focus">Machine learning, enhanced sampling, and protein conformational ensembles</span></div>
