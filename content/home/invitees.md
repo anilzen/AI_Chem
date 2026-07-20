@@ -28,13 +28,13 @@ design:
   <div class="person"><span class="name">Francesco Paesani</span><span class="affil">University of California, San Diego</span><span class="focus">Data-driven molecular simulation and many-body interactions</span></div>
   <div class="person"><span class="name">John Parkhill</span><span class="affil">Terray Therapeutics</span><span class="focus">Chemical foundation models, molecular design, and synthesis planning</span></div>
   <div class="person"><span class="name">Rory Waterman</span><span class="affil">University of Vermont</span><span class="focus">Inorganic and organometallic synthesis and catalysis</span></div>
+  <div class="person"><span class="name">Christopher Jarzynski</span><span class="affil">University of Maryland</span><span class="focus">Nonequilibrium statistical mechanics and thermodynamics</span></div>
 </div>
 
 ## Invited speakers
 
 <div class="people-grid">
   <div class="person"><span class="name">Jennifer Lewis</span><span class="affil">Harvard University</span><span class="focus">Additive manufacturing and functional materials</span></div>
-  <div class="person"><span class="name">Christopher Jarzynski</span><span class="affil">University of Maryland</span><span class="focus">Nonequilibrium statistical mechanics and thermodynamics</span></div>
   <div class="person"><span class="name">Shane W. Krska</span><span class="affil">Merck &amp; Co.</span><span class="focus">Synthetic chemistry, catalysis, and high-throughput experimentation</span></div>
   <div class="person"><span class="name">Colin Lam</span><span class="affil">Merck &amp; Co.</span><span class="focus">Artificial intelligence and data science for drug discovery</span></div>
   <div class="person"><span class="name">Song Lin</span><span class="affil">Stanford University</span><span class="focus">Organic electrochemistry, electrocatalysis, and synthesis</span></div>
