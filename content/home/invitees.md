@@ -45,7 +45,7 @@ design:
   <div class="person"><span class="name">Ramón Alain Miranda-Quintana</span><span class="affil">University of Florida</span><span class="focus">Conceptual density functional theory and chemical data analysis</span></div>
   <div class="person"><span class="name">Timothy Newhouse</span><span class="affil">Yale University</span><span class="focus">Synthetic organic chemistry and natural product synthesis</span></div>
   <div class="person"><span class="name">Grant Rotskoff</span><span class="affil">Stanford University</span><span class="focus">Nonequilibrium statistical mechanics and machine learning for molecular simulation</span></div>
-  <div class="person"><span class="name">Andrea Bortolato</span><span class="affil">SandboxAQ</span><span class="focus">AI-enabled molecular simulation and structure-based drug discovery</span></div>
+  <!-- <div class="person"><span class="name">Andrea Bortolato</span><span class="affil">SandboxAQ</span><span class="focus">AI-enabled molecular simulation and structure-based drug discovery</span></div> -->
   <!-- <div class="person"><span class="name">Joshua Schrier</span><span class="affil">Fordham University</span><span class="focus">AI-guided materials discovery and autonomous experimentation</span></div> -->
   <div class="person"><span class="name">Charles Schroeder</span><span class="affil">Princeton University</span><span class="focus">Polymer dynamics, rheology, and single-molecule science</span></div>
   <div class="person"><span class="name">Daniel Tabor</span><span class="affil">Texas A&amp;M University</span><span class="focus">Machine learning and quantum chemistry for materials discovery</span></div>
