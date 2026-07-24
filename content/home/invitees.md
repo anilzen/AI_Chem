@@ -51,7 +51,7 @@ design:
   <div class="person"><span class="name">Daniel Tabor</span><span class="affil">Texas A&amp;M University</span><span class="focus">Machine learning and quantum chemistry for materials discovery</span></div>
   <div class="person"><span class="name">Suri Vaikuntanathan</span><span class="affil">University of Chicago</span><span class="focus">Nonequilibrium statistical mechanics, soft matter, and biophysics</span></div>
   <div class="person"><span class="name">Alison Wendlandt</span><span class="affil">MIT</span><span class="focus">Catalysis, physical organic chemistry, and selective synthesis</span></div>
-  <div class="person"><span class="name">Michael Wleklinski</span><span class="affil">Merck &amp; Co.</span><span class="focus">Laboratory automation and high-throughput experimentation for drug discovery</span></div>
+  <!-- <div class="person"><span class="name">Michael Wleklinski</span><span class="affil">Merck &amp; Co.</span><span class="focus">Laboratory automation and high-throughput experimentation for drug discovery</span></div> -->
   <div class="person"><span class="name">Bodhi Vani</span><span class="affil">Prescient Design, Genentech</span><span class="focus">Machine learning, enhanced sampling, and protein conformational ensembles</span></div>
   <div class="person"><span class="name">Pierre Baldi</span><span class="affil">University of California, Irvine</span><span class="focus">Deep learning, cheminformatics, and chemical reaction prediction</span></div>
   <div class="person"><span class="name">Nathan Frey</span><span class="affil">Anthropic</span><span class="focus">Artificial intelligence for drug discovery and scientific research</span></div>
