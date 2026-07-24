@@ -35,6 +35,7 @@ design:
   <div class="person"><span class="name">Shane W. Krska</span><span class="affil">Merck &amp; Co.</span><span class="focus">Synthetic chemistry, catalysis, and high-throughput experimentation</span></div>
   <div class="person"><span class="name">Masha Elkin</span><span class="affil">MIT</span><span class="focus">Synthetic organic chemistry, catalysis, and machine learning</span></div>
   <div class="person"><span class="name">Gregory Voth</span><span class="affil">University of Chicago</span><span class="focus">Multiscale molecular simulation and coarse-grained modeling</span></div>  
+  <div class="person"><span class="name">Mary Pitman</span><span class="affil">SandboxAQ</span><span class="focus">Molecular simulation and biologics</span></div>
 </div>
 
 ## Invited speakers
