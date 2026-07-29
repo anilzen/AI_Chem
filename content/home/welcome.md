@@ -21,6 +21,8 @@ This NSF workshop will bring chemistry, AI, data infrastructure, automation, sof
 
 The meeting is designed as a roadmap workshop rather than a research symposium. Participants will work toward concrete pilot concepts, writing responsibilities, and a community-facing report that can guide near-term action and longer-term coordination.
 
+This workshop is supported by NSF through award number [2630156](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2630156).
+
 <div class="landing-logos" aria-label="Workshop organization logos">
   <a href="https://www.nsf.gov/" aria-label="U.S. National Science Foundation">
     <img class="nsf-logo" src="uploads/logos/nsf.png" alt="U.S. National Science Foundation">
