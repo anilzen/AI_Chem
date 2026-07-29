@@ -3,7 +3,7 @@ widget: blank
 headless: true
 weight: 30
 
-title: Speakers
+title: Invited Participants
 subtitle:
 
 design:
