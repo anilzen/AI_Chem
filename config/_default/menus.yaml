@@ -13,8 +13,8 @@ main:
   # - name: Program
   #   url: agenda
   #   weight: 30
-  - name: Speakers
-    url: '#speakers'
+  - name: Participants
+    url: '#participants'
     weight: 40
   - name: Organizers
     url: '#organizers'
