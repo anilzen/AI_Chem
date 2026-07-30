@@ -7,15 +7,15 @@ main:
   - name: Home
     url: '#welcome'
     weight: 10
-  - name: Objectives
-    url: '#objectives'
-    weight: 20
   # - name: Program
   #   url: agenda
   #   weight: 30
   - name: Participants
     url: '#participants'
-    weight: 40
+    weight: 20
+  - name: Objectives
+    url: '#objectives'
+    weight: 30
   - name: Organizers
     url: '#organizers'
     weight: 50

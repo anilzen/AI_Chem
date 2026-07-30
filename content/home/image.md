@@ -17,10 +17,8 @@ design:
     image_position: center
     image_size: cover
     text_color_light: true
-spacing:
-    padding: ['130px', '0', '70px', '0']
 advanced:
-  css_class: fullscreen
+  css_class: compact-hero
 ---
 
 <p class="sr-only">University of Maryland Institute for Health Computing building in North Bethesda, Maryland.</p>

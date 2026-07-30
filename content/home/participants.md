@@ -1,7 +1,7 @@
 ---
 widget: blank
 headless: true
-weight: 30
+weight: 20
 
 title: Invited Participants
 subtitle:
@@ -44,4 +44,5 @@ design:
   <div class="person"><span class="name">Sutanay Choudhury</span><span class="affil">Pacific Northwest National Laboratory</span><span class="focus">Artificial intelligence for scientific discovery and molecular modeling</span></div>
   <div class="person"><span class="name">Bodhi Vani</span><span class="affil">Prescient Design, Genentech</span><span class="focus">Machine learning, enhanced sampling, and protein conformational ensembles</span></div>
   <div class="person"><span class="name">Tom Graham</span><span class="affil">Bristol Myers Squibb</span><span class="focus">Experimental chemistry and drug discovery</span></div>
+  <div class="person"><span class="name">Michael Koeris</span><span class="affil">DARPA</span><span class="focus">Bioprocessing, microbiome medicines, and cell and gene therapies</span></div>
 </div>

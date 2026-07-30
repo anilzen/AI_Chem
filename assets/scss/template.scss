@@ -171,8 +171,9 @@
   margin-bottom: 0.65rem;
 }
 
-.fullscreen {
+.compact-hero {
   position: relative;
+  padding: 70px 0 55px;
 }
 
 .sr-only {
@@ -188,6 +189,10 @@
 }
 
 @media (max-width: 900px) {
+  .compact-hero {
+    padding: 45px 0 35px;
+  }
+
   .people-grid,
   .people-grid.compact,
   .organizer-grid,
