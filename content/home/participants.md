@@ -45,4 +45,5 @@ design:
   <div class="person"><span class="name">Bodhi Vani</span><span class="affil">Prescient Design, Genentech</span><span class="focus">Machine learning, enhanced sampling, and protein conformational ensembles</span></div>
   <div class="person"><span class="name">Tom Graham</span><span class="affil">Bristol Myers Squibb</span><span class="focus">Experimental chemistry and drug discovery</span></div>
   <div class="person"><span class="name">Michael Koeris</span><span class="affil">DARPA</span><span class="focus">Bioprocessing, microbiome medicines, and cell and gene therapies</span></div>
+  <div class="person"><span class="name">Ramón Alain Miranda-Quintana</span><span class="affil">University of Florida</span><span class="focus">Quantum and theoretical chemistry and data analysis</span></div>
 </div>
