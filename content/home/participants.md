@@ -46,4 +46,5 @@ design:
   <div class="person"><span class="name">Tom Graham</span><span class="affil">Bristol Myers Squibb</span><span class="focus">Experimental chemistry and drug discovery</span></div>
   <div class="person"><span class="name">Michael Koeris</span><span class="affil">DARPA</span><span class="focus">Bioprocessing, microbiome medicines, and cell and gene therapies</span></div>
   <div class="person"><span class="name">Ramón Alain Miranda-Quintana</span><span class="affil">University of Florida</span><span class="focus">Quantum and theoretical chemistry and data analysis</span></div>
+  <div class="person"><span class="name">Aditi S. Krishnapriyan</span><span class="affil">University of California, Berkeley</span><span class="focus">Machine learning for the natural sciences, molecular and materials modeling, and multiscale dynamics</span></div>
 </div>
