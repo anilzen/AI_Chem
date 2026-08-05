@@ -49,4 +49,5 @@ design:
   <div class="person"><span class="name">Aditi S. Krishnapriyan</span><span class="affil">University of California, Berkeley</span><span class="focus">Machine learning for the natural sciences, molecular and materials modeling, and multiscale dynamics</span></div>
   <div class="person"><span class="name">Samuel Stanton</span><span class="affil">Anthropic</span><span class="focus">Probabilistic machine learning, Bayesian optimization, and AI for biological design</span></div>
   <div class="person"><span class="name">Santiago Miret</span><span class="affil">Lila Sciences</span><span class="focus">Machine learning, materials informatics, and AI-enabled materials discovery</span></div>
+  <div class="person"><span class="name">Rigoberto Hernandez</span><span class="affil">Johns Hopkins University</span><span class="focus">Theoretical and computational chemistry, chemical dynamics, and energy transport</span></div>
 </div>
