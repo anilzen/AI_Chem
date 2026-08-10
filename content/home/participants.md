@@ -52,4 +52,5 @@ design:
   <div class="person"><span class="name">Rigoberto Hernandez</span><span class="affil">Johns Hopkins University</span><span class="focus">Theoretical and computational chemistry, chemical dynamics, and energy transport</span></div>
   <div class="person"><span class="name">Timothy Newhouse</span><span class="affil">Yale University</span><span class="focus">Organic synthesis, natural product synthesis, and reaction development</span></div>
   <div class="person"><span class="name">Abhinendra Singh</span><span class="affil">Case Western Reserve University</span><span class="focus">Multiscale simulation, machine learning, and constitutive modeling of materials</span></div>
+  <div class="person"><span class="name">Jeremy Monat</span><span class="affil">Benchling</span><span class="focus">Software engineering and cloud-based platforms for biotechnology research and development</span></div>
 </div>
