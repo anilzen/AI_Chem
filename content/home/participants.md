@@ -54,4 +54,5 @@ design:
   <div class="person"><span class="name">Abhinendra Singh</span><span class="affil">Case Western Reserve University</span><span class="focus">Multiscale simulation, machine learning, and constitutive modeling of materials</span></div>
   <div class="person"><span class="name">Jeremy Monat</span><span class="affil">Benchling</span><span class="focus">Software engineering and cloud-based platforms for biotechnology research and development</span></div>
   <div class="person"><span class="name">Yu Gan</span><span class="affil">University of Maryland, College Park</span><span class="focus">Machine learning, generative and trustworthy AI, and biomedical imaging</span></div>
+  <div class="person"><span class="name">Sarah Tegen</span><span class="affil">ACS Publications</span><span class="focus">Scientific publishing, open science, research integrity, and peer review</span></div>
 </div>
