@@ -11,7 +11,7 @@ design:
 <div class="workshop-facts">
   <div><strong>Venue &amp; lodging</strong><span><a href="https://www.thehotelumd.com/">The Hotel at the University of Maryland</a><br>7777 Baltimore Ave., College Park, MD 20740<br>Workshop sessions and participant accommodations</span></div>
   <div><strong>Format</strong><span>Small, invitation-based working meeting</span></div>
-  <div><strong>Dates</strong><span>Thursday, September 3, 2026 (starting at 1:00 PM) through Friday, September 4, 2026 (ending by 5:00 PM)</span></div>
+  <div><strong>Dates</strong><span>Thursday, September 3, 2026 (starting at 12:00 noon) through Friday, September 4, 2026 (ending by 5:00 PM)</span></div>
   <div><strong>Organizers</strong><span>Pratyush Tiwary, Connor Coley, and Ryan Jorn</span></div>
 </div>
 
@@ -32,5 +32,8 @@ This workshop is supported by NSF through award number [2630156](https://www.nsf
   </a>
   <a href="https://ihc.umd.edu/" aria-label="University of Maryland Institute for Health Computing">
     <img class="ihc-logo" src="uploads/logos/ihc.svg" alt="University of Maryland Institute for Health Computing">
+  </a>
+  <a href="https://chem.umd.edu/" aria-label="University of Maryland Department of Chemistry and Biochemistry">
+    <img class="chem-logo" src="uploads/logos/umd-chem-biochem.png" alt="University of Maryland Department of Chemistry and Biochemistry">
   </a>
 </div>

@@ -11,7 +11,11 @@ subtitle: "Chemistry-first AI for data, models, and infrastructure"
 design:
   columns: '1'
   background:
-    color: '#126c6e'
+    image: Hotel_UMD_Exterior.webp
+    image_darken: .5
+    image_parallax: false
+    image_position: center
+    image_size: cover
     text_color_light: true
 advanced:
   css_class: compact-hero
