@@ -10,8 +10,8 @@ design:
 
 <div class="workshop-facts">
   <div><strong>Venue &amp; lodging</strong><span><a href="https://www.thehotelumd.com/">The Hotel at the University of Maryland</a><br>7777 Baltimore Ave., College Park, MD 20740<br>Workshop sessions and participant accommodations</span></div>
-  <div><strong>Format</strong><span>Small, invitation-based working meeting</span></div>
   <div><strong>Dates</strong><span>Thursday, September 3, 2026 (starting at 12:00 noon and ending with dinner by 8:00 PM) and Friday, September 4, 2026 (starting at 9:00 AM and ending by 4:00 PM)</span></div>
+  <div><strong>Format</strong><span>Small, invitation-based working meeting</span></div>
   <div><strong>Organizers</strong><span>Pratyush Tiwary, Connor Coley, and Ryan Jorn</span></div>
 </div>
 
