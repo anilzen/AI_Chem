@@ -55,4 +55,11 @@ design:
   <div class="person"><span class="name">Jeremy Monat</span><span class="affil">Benchling</span><span class="focus">Software engineering and cloud-based platforms for biotechnology research and development</span></div>
   <div class="person"><span class="name">Yu Gan</span><span class="affil">University of Maryland, College Park</span><span class="focus">Machine learning, generative and trustworthy AI, and biomedical imaging</span></div>
   <div class="person"><span class="name">Sarah Tegen</span><span class="affil">ACS Publications</span><span class="focus">Scientific publishing, open science, research integrity, and peer review</span></div>
+  <div class="person"><span class="name">Tom Allison</span><span class="affil">National Institute of Standards and Technology</span><span class="focus">Quantum chemistry, molecular modeling, electrochemistry, and solvation thermodynamics</span></div>
+  <div class="person"><span class="name">Giulia Palermo</span><span class="affil">University of California, Los Angeles</span><span class="focus">Multiscale molecular simulation, computational biophysics, and AI for genome editing</span></div>
+  <div class="person"><span class="name">Richard Dawes</span><span class="affil">National Science Foundation</span><span class="focus">Theoretical and computational chemistry, potential energy surfaces, and molecular dynamics</span></div>
+  <div class="person"><span class="name">Lin He</span><span class="affil">National Science Foundation</span><span class="focus">Chemical measurement and imaging, bioanalysis, and data-driven discovery</span></div>
+  <div class="person"><span class="name">Larry Sita</span><span class="affil">University of Maryland, College Park</span><span class="focus">Organometallic chemistry, catalyst development, and advanced polymeric materials</span></div>
+  <div class="person"><span class="name">Garik Petrosyan</span><span class="affil">Deep Origin</span><span class="focus">Artificial intelligence, molecular modeling, and computational biology for therapeutic design</span></div>
+  <div class="person"><span class="name">Yanxin Liu</span><span class="affil">University of Maryland, College Park</span><span class="focus">Cryo-electron microscopy, molecular dynamics simulation, and structural biophysics</span></div>
 </div>
