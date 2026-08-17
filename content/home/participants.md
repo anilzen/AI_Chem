@@ -62,5 +62,5 @@ design:
   <div class="person"><span class="name">Larry Sita</span><span class="affil">University of Maryland, College Park</span><span class="focus">Organometallic chemistry, catalyst development, and advanced polymeric materials</span></div>
   <div class="person"><span class="name">Garik Petrosyan</span><span class="affil">Deep Origin</span><span class="focus">Artificial intelligence, molecular modeling, and computational biology for therapeutic design</span></div>
   <div class="person"><span class="name">Yanxin Liu</span><span class="affil">University of Maryland, College Park</span><span class="focus">Cryo-electron microscopy, molecular dynamics simulation, and structural biophysics</span></div>
-  <div class="person"><span class="name">Wolfgang Losert</span><span class="affil">University of Maryland, College Park</span><span class="focus">Machine learning, quantitative biophysics, and collective dynamics of living systems</span></div>
+  <div class="person"><span class="name">Wolfgang Losert</span><span class="affil">University of Maryland, College Park</span><span class="focus">Chemical excitability, neuromorphic computing, neuroAI, and cellular phenotypes</span></div>
 </div>
