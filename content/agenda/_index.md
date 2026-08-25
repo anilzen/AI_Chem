@@ -10,7 +10,6 @@ view: compact
     <p class="schedule-deck">Two days of short framing talks and focused breakout discussions designed to turn shared priorities into actionable next steps.</p>
     <a class="schedule-allocation-link" href="https://docs.google.com/spreadsheets/d/1JL4UYABB2SS3b_urYy9_z1_Ly9BCfwEE8dqlBjllKcw/edit?gid=0#gid=0" target="_blank" rel="noopener noreferrer">
       <span class="schedule-allocation-copy">
-        <span class="schedule-allocation-label">Participant resource</span>
         <strong>Working-group allocation</strong>
         <span class="schedule-allocation-description">Open the shared assignment sheet for working-group placements.</span>
       </span>

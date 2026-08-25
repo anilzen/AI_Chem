@@ -287,20 +287,8 @@
 }
 
 .schedule-allocation-copy,
-.schedule-allocation-label,
 .schedule-allocation-description {
   display: block;
-}
-
-.schedule-allocation-label {
-  margin-bottom: 0.15rem;
-  color: var(--schedule-teal);
-  font-family: Inter, sans-serif;
-  font-size: 0.66rem;
-  font-weight: 700;
-  letter-spacing: 0.09em;
-  line-height: 1.3;
-  text-transform: uppercase;
 }
 
 .schedule-allocation-copy strong {
