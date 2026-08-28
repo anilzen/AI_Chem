@@ -64,4 +64,5 @@ design:
   <div class="person"><span class="name">Yanxin Liu</span><span class="affil">University of Maryland, College Park</span><span class="focus">Cryo-electron microscopy, molecular dynamics simulation, and structural biophysics</span></div>
   <div class="person"><span class="name">Wolfgang Losert</span><span class="affil">University of Maryland, College Park</span><span class="focus">Chemical excitability, neuromorphic computing, neuroAI, and cellular phenotypes</span></div>
   <div class="person"><span class="name">JC Gumbart</span><span class="affil">Georgia Institute of Technology</span><span class="focus">Atomistic molecular dynamics, computational biophysics, and bacterial membrane systems</span></div>
+  <div class="person"><span class="name">Marat Valiev</span><span class="affil">U.S. Department of Energy</span><span class="focus">Quantum information science, high-performance molecular simulation, and computational chemistry</span></div>
 </div>
